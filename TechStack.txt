@@ -1,0 +1,1 @@
+Companys’ Technology Stack:1) StockX: https://stackshare.io/stockx/stockx2) GrubHub: https://stackshare.io/grubhub/grubhub,https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a3) Indeed: https://stackshare.io/indeed/indeed,https://www.crunchbase.com/organization/indeed/technology,https://www.quora.com/unanswered/What-technology-is-indeed-com-built-on
